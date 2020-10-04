@@ -22,6 +22,9 @@ Trademark use | :x: |
 Warranty | :x: |
 
 More infomation can be found [here](https://www.apache.org/licenses/LICENSE-2.0)
+
+If you want to bypass some limitations, please add an issue [here](https://github.com/phamleduy04/logo-lhp/issues) and I will review it!
+
 ## Chào mừng
 Đây là những file để tạo ra logo cho các bạn học sinh trường THPT chuyên Lê Hồng Phong!
 
