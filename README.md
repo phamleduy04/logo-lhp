@@ -23,7 +23,7 @@ Warranty | :x: |
 
 More infomation can be found [here](https://www.apache.org/licenses/LICENSE-2.0)
 ## Chào mừng
-Đây là file để tạo ra logo này!
+Đây là những file để tạo ra logo cho các bạn học sinh trường THPT chuyên Lê Hồng Phong!
 
 ## Bản quyền
 Logo này (không bao gồm phông chữ) được cấp phép theo [Giấy phép Apache 2.0](https://github.com/phamleduy04/logo-lhp/blob/main/LICENSE).
