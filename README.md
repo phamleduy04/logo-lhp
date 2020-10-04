@@ -49,3 +49,5 @@ Tạo thành nhãn hiệu | :x: |
 Sự bảo đảm | :x: |
 
 Tìm hiểu thêm tại [đây](https://www.apache.org/licenses/LICENSE-2.0)
+
+Nếu bạn muốn bỏ qua một số hạn chế, vui lòng thêm "vấn đề" (issue) [tại đây](https://github.com/phamleduy04/logo-lhp/issues) và mình sẽ xem xét!
